@@ -1,0 +1,30 @@
+# Arduino/Arduino-CLI output directories
+/cyberpunk_clock/build/
+/cyberpunk_clock/bin/
+*.elf
+*.hex
+*.bin
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*~
+*.tmp
+*.bak
+
+# OS-generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# Python cache (if any helpers are run)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local configuration overrides (if user creates private config copies)
+*local_config*
+private_credentials*
